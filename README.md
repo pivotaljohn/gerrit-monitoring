@@ -40,7 +40,7 @@ To install and configure Helm, follow the
 - ytt \
 ytt is a templating tool for yaml-files. It is required for some last moment
 configuration. Installation instructions can be found
-[here](https://k14s.io/#install-from-github-release).
+[here](https://github.com/vmware-tanzu/carvel-ytt).
 
 - Pipenv \
 Pipenv sets up a virtual python environment and installs required python packages

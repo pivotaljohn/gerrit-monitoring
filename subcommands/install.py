@@ -165,7 +165,6 @@ def _run_ytt(config, output_dir):
     command += [
         "--output-files",
         output_dir,
-        "--ignore-unknown-comments",
         "-f",
         "-",
     ]
